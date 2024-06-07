@@ -1,2 +1,2 @@
 # ZPython
-a colorize python idle
+a colorize python idle repl like
